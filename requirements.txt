@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+beautifulsoup4
+snownlp
+yfinance
+selenium
+scikit-learn
+openpyxl
