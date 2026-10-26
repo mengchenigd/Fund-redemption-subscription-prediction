@@ -35,6 +35,6 @@ The original application was developed collaboratively. The version presented he
 - **Tkinter:** Desktop user interface
 
 ## Data Availability and Execution Limitations
-The original Excel input files are not included due to confidentiality restrictions. Identifying information about the project partner is also omitted.
+The original Excel input files are not included due to confidentiality restrictions.
 
 The original prediction workflow requires input data and any associated model artifacts expected by the application. Because the original dataset is not provided, the repository cannot reproduce the original workflow out of the box.
