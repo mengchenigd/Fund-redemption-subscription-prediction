@@ -1,0 +1,10 @@
+*.xlsx
+*.xls
+Logistic_Regression_*
+Multi-Layer_Perceptron*
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.env
